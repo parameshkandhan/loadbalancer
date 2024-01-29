@@ -14,4 +14,4 @@ Cloudwatch: For the monitoring purpose need to use the  Amazon Cloud Watch and A
 Set up CloudWatch Alarms based on your custom metrics or predefined metrics for AWS resources. Alarms allow you to trigger actions when certain thresholds are breached.
 Integrate CloudWatch Logs to capture and analyze log data. Use CloudWatch Logs Insights for advanced querying and analysis of log data.
 To create a cloud watch need to be add the Organize  subscribers using SNS Topics. Topics act as communication channels for sending messages to multiple endpoints.
-Subscribe your endpoints (email addresses, SMS numbers, HTTP endpoints, etc.) to relevant SNS Topics. This allows them to receive notifications
+Subscribe your endpoints (email addresses, SMS numbers, HTTP endpoints, etc.) to relevant SNS Topics. This allows them to receive notifications.
